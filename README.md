@@ -1,2 +1,3 @@
 # py-md
-Package that converts a python dictionay into a markdown file
+
+Package that converts a python dictionary into a markdown file

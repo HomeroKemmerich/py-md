@@ -1,6 +1,6 @@
-NEW_LINE = '\n\n'
-
 from md_blocks import *
+
+NEW_LINE = '\n\n'
 
 def dict_to_md(blocks: list):
     """
